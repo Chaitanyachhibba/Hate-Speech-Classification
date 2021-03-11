@@ -1,4 +1,4 @@
-# Hate-Speech-Classification
+# Hate-Speech-Classification using CNN
 
 Steps to classify hate speech
 
