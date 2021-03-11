@@ -9,7 +9,8 @@ Steps to classify hate speech
  - Test the Model
 
 
-class 
-  0 - hate speech 
-  1 - offensive language 
-  2 - neither
+classes of hate speech -> 
+
+  0 - hate speech;
+  1 - offensive language;
+  2 - neither;
